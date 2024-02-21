@@ -1,4 +1,4 @@
-# Turtle Graphics
+# The Million Dollar Painting
 
 This Python script generates a 10x10 grid of dots using the Turtle module. Inspired by a million-dollar painting by The Man and The Movement: Damien Hirst’s Spot Paintings
 
